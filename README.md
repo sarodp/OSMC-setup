@@ -1,1 +1,2 @@
-# osmc-setup
+# osmc-setup  
+my osmc setup  
